@@ -43,6 +43,11 @@ module.exports = {
       name: 'limit',
       boolean: false,
       abbr: 'l'
+    },
+    {
+      name: 'include',
+      boolean: false,
+      abbr: 'i'
     }
   ]
 }
